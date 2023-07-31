@@ -31,11 +31,11 @@
                             <img src="assets/img/banner_image.png" alt="hero hero-it-solution " class="img-fluid">
                             <div class="dots">
                                 <img src="assets/img/banner_dot.png" alt="dot" class="dot-1">
-                                <img src="assets/img/banner_dot.png" alt="dot" class="dot-2">
+                                <!-- <img src="assets/img/banner_dot.png" alt="dot" class="dot-2"> -->
                             </div>
                             <div class="bubble">
                                 <span class="bubble-1"></span>
-                                <span class="bubble-2"></span>
+                                <!-- <span class="bubble-2"></span> -->
                             </div>
                         </div>
                     </div>

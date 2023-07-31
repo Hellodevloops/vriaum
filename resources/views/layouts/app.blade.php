@@ -279,8 +279,8 @@
                         <li><a href="{{ route('contact.index') }}" class="nav-link">Contact us</a></li>
                     </ul>
                     <div class="action-btns mt-4 ps-3">
-                        <a href="login.html" class="btn btn-outline-primary me-2">Sign In</a>
-                        <a href="request-demo.html" class="btn btn-primary">Get Started</a>
+                        <!-- <a href="login.html" class="btn btn-outline-primary me-2">Sign In</a> -->
+                        <a href="{{ route('contact.index') }}" class="btn btn-primary">Contact US</a>
                     </div>
                 </div>
             </div>
@@ -349,7 +349,7 @@
 
                                                     <div class="flex-grow-1 ms-3 text-center">
                                                         <a class=" text-black" href="tel:+1(646)4795816">+1
-                                                            (646)4795816</a>
+                                                            (646)-479-5816</a>
                                                     </div>
                                                 </div>
                                             </li>
