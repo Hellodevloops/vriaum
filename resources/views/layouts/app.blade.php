@@ -202,7 +202,7 @@
                             <div class="tt-theme-dark" data-bs-toggle="tooltip" data-bs-placement="left"
                                 data-bs-title="Dark"><i class="flaticon-moon-1 fs-lg"></i></div>
                         </a> --}}
-                        <a href="contact.html" class="btn btn-primary">Download Brochure</a>
+                        <a href="https://www.canva.com/design/DAFxZiX9ngE/y7SvBcTP1FTKX2kIdx9sKQ/view?utm_content=DAFxZiX9ngE&utm_campaign=share_your_design&utm_medium=link&utm_source=shareyourdesignpanel" class="btn btn-primary">Download Brochure</a>
                     </div>
                 </div>
             </nav>
@@ -398,8 +398,8 @@
                                                     </div>
 
                                                     <div class="flex-grow-1 ms-3 text-center">
-                                                        <a class=" text-black" href="tel:+1(646)4795816">+1
-                                                            (646)4795816</a>
+                                                        <a class=" text-black" href="tel:+1(646)4795816">
+                                                        +1 646-479-5816</a>
                                                     </div>
                                                 </div>
                                             </li>
@@ -468,7 +468,7 @@
 
                                                     <div class="flex-grow-1 ms-3 text-center">
                                                         <a class=" text-black"
-                                                            href="mailto:admin@vriaum.com">admin@vriaum.com</a>
+                                                            href="mailto:admin@vriaum.tech">admin@vriaum.tech</a>
                                                     </div>
                                                 </div>
                                             </li>
